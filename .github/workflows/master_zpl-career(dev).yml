@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'zpl-career'
           slot-name: 'dev'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9826316830C84A7A8A19CD0C63765415 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_367FF776699F41718498401092929589 }}
           package: .
